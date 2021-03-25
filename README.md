@@ -1,2 +1,2 @@
 # flames
-Python Program for the famous FLAMES game
+Python Program for the FLAMES game
